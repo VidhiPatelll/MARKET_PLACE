@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+}
+
+.square {
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 70px;
+}
+
+.jumbotron{
+    background-image: linear-gradient(to right, #84adda, rgb(27, 85, 66));
+    color: white;
+}
